@@ -1,1 +1,6 @@
 si-
+
+git status        # Para ver los archivos modificados
+git add .         # Para agregar todos los cambios al staging area
+git commit -m "Descripción de los cambios" # Para guardar los cambios localmente
+git push          # Para subir los commits al repositorio remoto
